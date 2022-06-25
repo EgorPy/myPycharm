@@ -24,7 +24,7 @@ def show_menu_buttons():
 
 
 def exit_program():
-    quit()
+    exit(0)
 
 
 def change_buttonMenu_color_1(event):
